@@ -11,5 +11,7 @@ Here, we try to build applications/scripts which involves automating web functio
 
 4). Web_Driver Package [can be installed using PIP]
 
+5). You might want to download chromedriver.exe from https://sites.google.com/a/chromium.org/chromedriver/ if need it permanently 
+
 Note : Set MINIMUM_THRESHOLD Limit as per your wish
 
